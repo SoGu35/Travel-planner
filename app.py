@@ -1,6 +1,6 @@
 import gradio as gr
 from maps import *
-from chatbot_sample import *
+from chatbot import *
 
 # Gradio Interface
 with gr.Blocks() as demo: 
